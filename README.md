@@ -7,13 +7,13 @@ Set up your Google Sheet with the following structure:
 
 | **Column** | **Header**              | **Description**                                        |
 |------------|-------------------------|--------------------------------------------------------|
-| A          | First Name              | Participant's first name.                             |
-| B          | Last Name               | Participant's last name.                              |
-| C          | Email                   | Participant's email address.                          |
-| D          | Partner's First Name    | The first name of the participant's assigned partner. *(Output)* |
-| E          | Partner's Last Name     | The last name of the participant's assigned partner. *(Output)* |
-| F          | Partner's Email         | The email address of the participant's assigned partner. *(Output)* |
-| G          | Last Partner            | The full name (First Name + Last Name) of the last assigned partner. *(Output)* |
+| A          | First Name              | Participants first name.                             |
+| B          | Last Name               | Participants last name.                              |
+| C          | Email                   | Participants email address.                          |
+| D          | Partners First Name    | The first name of the participants assigned partner. (Output) |
+| E          | Partners Last Name     | The last name of the participants assigned partner. (Output) |
+| F          | Partners Email         | The email address of the participants assigned partner. (Output) |
+| G          | Last Partner            | The full name (First Name + Last Name) of the last assigned partner. (Output) |
 
 ## Example Table Layout
 
