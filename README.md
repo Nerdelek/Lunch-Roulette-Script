@@ -1,4 +1,4 @@
-# Lunch Roulette - Google Apps Script
+# Lunch Roulette
 
 A simple Lunch Roulette script in JavaScript. Enter a list of participants into a Google Sheet, add the script to Google Apps Script, and it will randomly pair them for lunch meetups while avoiding repeats from the last execution.
 
