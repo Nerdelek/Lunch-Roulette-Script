@@ -17,7 +17,7 @@ Set up your Google Sheet with the following structure:
 
 ## Example Table Layout
 
-| **First Name** | **Last Name** | **Email**             | **Partner's First Name** | **Partner's Last Name** | **Partner's Email**       | **Last Partner**         |
+| **First Name** | **Last Name** | **Email**             | **Partners First Name** | **Partners Last Name** | **Partners Email**       | **Last Partner**         |
 |----------------|---------------|-----------------------|---------------------------|--------------------------|---------------------------|---------------------------|
 | John           | Doe           | john.doe@example.com  |                           |                          |                           |                           |
 | Jane           | Smith         | jane.smith@example.com|                           |                          |                           |                           |
